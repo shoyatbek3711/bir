@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shoyatbek</h1>
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
 
-- 👨‍💻 Al of my projects are available at [https://github.com/backendphp2008](https://github.com/backendphp2008)
+- 👨‍💻 Al of my projects are available at [https://github.com/shoyatbek3711](https://github.com/backendphp2008)
 
 - 📫 How to reach me **shoyatbek3711@gmail.com**
 
